@@ -1,5 +1,5 @@
 Summary:	Assembly Language Debugger
-Summary(pl):	Debuger Asemblera
+Summary(pl):	Debugger dla asemblera
 Name:		ald
 Version:	0.1.7
 Release:	1
@@ -26,7 +26,6 @@ na platformie x86.
 %setup -q
 
 %build
-
 %configure
 %{__make} \
 	CFLAGS="%{rpmcflags}"
