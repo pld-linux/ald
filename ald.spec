@@ -1,5 +1,5 @@
 Summary:	Assembly Language Debugger
-Summary(pl.UTF-8):   Debugger dla asemblera
+Summary(pl.UTF-8):	Debugger dla asemblera
 Name:		ald
 Version:	0.1.7
 Release:	1
