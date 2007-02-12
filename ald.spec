@@ -1,5 +1,5 @@
 Summary:	Assembly Language Debugger
-Summary(pl):	Debugger dla asemblera
+Summary(pl.UTF-8):   Debugger dla asemblera
 Name:		ald
 Version:	0.1.7
 Release:	1
@@ -17,9 +17,9 @@ The Assembly Language Debugger is a tool for debugging executable
 programs at the assembly level. It currently runs only on Intel x86
 platforms.
 
-%description -l pl
-Assembly Language Debugger jest narzêdziem s³u¿±cym odpluskwianiu
-wykonywalnych programów na poziomie asemblera. Obecnie dzia³a jedynie
+%description -l pl.UTF-8
+Assembly Language Debugger jest narzÄ™dziem sÅ‚uÅ¼Ä…cym odpluskwianiu
+wykonywalnych programÃ³w na poziomie asemblera. Obecnie dziaÅ‚a jedynie
 na platformie x86.
 
 %prep
