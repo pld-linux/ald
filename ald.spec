@@ -2,7 +2,7 @@ Summary:	Assembly Language Debugger
 Summary(pl.UTF-8):	Debugger dla asemblera
 Name:		ald
 Version:	0.1.7
-Release:	2
+Release:	3
 License:	GPL v2
 Group:		Development
 Source0:	http://dl.sourceforge.net/ald/%{name}-%{version}.tar.gz
